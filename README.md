@@ -1,2 +1,2 @@
 # FYP
-## This is my FYP of inventory Management System
+## This is my FYP of Tour Management System
